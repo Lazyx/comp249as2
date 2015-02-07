@@ -41,3 +41,12 @@ As of FEB 06 5:30pm
 		-choose whether to generate US table or euro table (can hardcode?)
 			-boolean isAmerican
 		-end after 10 rounds or when the dealer decides to stop
+		
+		
+*** Important Infos
+		00 can be coded as 37 or next biggest integer
+		random ending: assign integer for the dealer where game ends
+		assume players and dealer have unlimited amounts of money
+		winnings = winnings, not profits
+		array of 36 numbers, then generate random index
+		no exception handling\
